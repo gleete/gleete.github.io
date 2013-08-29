@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://gleete.github.io/blog/2013/08/29/so-i-decieded-to-make-a-blog/</loc>
+        <lastmod>2013-08-29T14:17:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/about/about.html</loc>
+        <lastmod>2013-08-29T14:21:49-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/about/</loc>
+        <lastmod>2013-08-29T14:19:05-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/blog/archives/</loc>
+        <lastmod>2013-08-29T14:17:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/blog/categories/</loc>
+        <lastmod>2013-08-29T13:42:42-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/</loc>
+        <lastmod>2013-08-29T14:17:59-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://gleete.github.io/robots.txt</loc>
+        <lastmod>2013-08-29T13:33:33-04:00</lastmod>
+    </url>
+</urlset>
